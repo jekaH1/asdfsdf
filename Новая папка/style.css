@@ -1,0 +1,494 @@
+* {
+
+    box-sizing: border-box;
+}
+
+nav {}
+
+#btnnav {
+    padding-bottom: 30px;
+}
+
+nav li a {
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 500px;
+    font-size: large;
+    color: rgba(255, 255, 255, 0.55);
+
+}
+
+.SBUIKITPRO {
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: flex;
+    color: aliceblue
+}
+
+nav .ul {
+    text-align: right;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+
+
+
+}
+
+main {
+    padding-top: 200px;
+    background-color: rgb(48, 53, 223);
+
+
+
+}
+
+#hmain {
+    font-size: 3.5rem;
+    color: #fff;
+}
+
+#pmain {
+    font-size: 1.8rem;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+#lmain {
+    color: #fff;
+    text-decoration: none;
+}
+
+main .container .row .col-lg-6 .img-fluid {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+#heart {
+    font-size: 40px;
+    background-color: rgb(21, 78, 234);
+    border-radius: 70px;
+    height: 5rem;
+    width: 5rem;
+    text-align: center;
+    padding-top: 23px;
+
+    align-items: center;
+}
+
+.fa-solid {
+    color: rgb(247, 238, 238);
+}
+
+icons .container .row {
+    text-align: center;
+    padding-top: 70px;
+}
+
+icons .container .row h5 {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+icons .container .row p {
+    color: rgb(131, 124, 124);
+}
+
+.img {
+    width: 800px;
+}
+
+#btnmain {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(0, 186, 148);
+    color: #fff;
+    font-weight: 700;
+
+}
+
+#text {}
+
+#img2 {
+    max-width: 100%;
+    height: auto;
+
+}
+
+#here {
+    font-size: 1.4rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #363d47;
+}
+
+#when {
+    font-size: 1.1rem;
+    font-weight: 400;
+    box-sizing: border-box;
+}
+
+#land {
+    font-size: 1rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #363d47;
+}
+
+#we {
+    font-size: 0.875em;
+    box-sizing: border-box;
+    margin-bottom: 0.5rem;
+}
+
+#arrow {
+    color: rgb(0, 78, 198);
+    font-size: x-small;
+}
+
+#link {
+    font-size: 0.875em;
+    color: rgb(0, 78, 198);
+    line-height: 1;
+    display: inline-flex;
+    align-items: center
+}
+
+#secondrow {
+    margin-top: 3%;
+}
+
+#section {
+    background-color: rgb(242, 246, 252);
+
+
+}
+
+#table {
+
+    font-size: 1.4rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #363d47;
+}
+
+#parent {
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 400
+}
+
+.padding {
+    padding-top: 5%;
+}
+
+
+
+.container .card ul li {
+    width: 255px;
+}
+
+.container .card .btn {
+    width: 248px;
+    height: 48px;
+    font-size: large;
+    position: relative;
+    top: 20px;
+}
+
+.container .card {
+    margin-top: 20px;
+    width: 288px;
+    margin-left: 30px;
+    position: relative;
+    left: 140px;
+}
+
+.container .card-header {
+    width: 288px;
+    height: 53px;
+    font-size: medium;
+}
+
+.container .card-title {
+    margin-top: 5px;
+}
+
+#lead {
+    display: block;
+    font-size: 1.1rem;
+    font-weight: 400;
+
+}
+
+.fa-regular {
+    color: rgb(0, 186, 148);
+    padding-right: 4px;
+    font-size: small;
+}
+
+#this {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    font-size: 0.9rem;
+}
+
+#free {
+    display: inline-block;
+    padding: 0.5em 1em;
+    font-size: 0.75rem;
+    border-radius: 50rem;
+    background-color: rgb(242, 246, 252);
+    width: 20%;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    margin-top: 10px;
+
+}
+
+#enterprise {
+    display: inline-block;
+    padding: 0.5em 1em;
+    font-size: 0.75rem;
+    border-radius: 50rem;
+    background-color: rgb(242, 246, 252);
+    width: 30%;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    margin-top: 10px;
+}
+
+#iconn {
+
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    height: 2.5rem;
+    width: 2.5rem;
+    font-size: 1rem;
+    background-color: rgb(0, 186, 148);
+    margin-right: 12px;
+}
+
+#h5what {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 1.1rem;
+    color: aliceblue;
+}
+
+#pfully {
+    color: rgba(255, 255, 255, 0.5)
+}
+
+#section3 {
+    background-color: rgb(33, 40, 50);
+    height: 100%;
+
+
+
+}
+
+#nnn {
+    padding: 2%;
+}
+
+#section4 {
+    background-color: rgb(33, 40, 50);
+}
+
+#getstarted {
+    display: inline-block;
+    padding: 0.5em 1em;
+    font-size: 0.75rem;
+    border-radius: 50rem;
+    background-color: rgb(30, 36, 45);
+    width: 10%;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    margin-top: 10px;
+    color: rgb(116, 141, 153);
+    margin-right: 65px;
+
+
+
+}
+
+#savetime {
+    font-size: 1.4rem;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    text-align: center;
+    color: aliceblue;
+}
+
+#pstart {
+    font-size: 1.1rem;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(116, 141, 153);
+    text-align: center;
+}
+
+#btn22 {
+    margin-left: 1150px;
+    font-size: large;
+    margin-bottom: 100px;
+    border-radius: 0.35rem;
+    justify-content: center;
+    color: #fff;
+    font-size: 0.875rem;
+    background-color: rgb(0, 186, 148);
+    font-weight: 500
+}
+
+#hrm {
+    background-color: rgb(242, 246, 252);
+}
+
+#cardss {
+    width: 426px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#sla {
+    display: flex;
+}
+
+footer {
+    color: rgb(242, 246, 252);
+}
+
+footer ul li {
+    list-style: none;
+}
+
+footer ul li a {
+    color: gray;
+    text-decoration: none;
+}
+
+footer .logo {
+    position: relative;
+    left: 285px;
+}
+
+footer h5 {
+    margin-left: 30px;
+}
+
+footer .row .Feature {
+    position: relative;
+    left: 60px;
+}
+
+footer .row .About {
+    position: relative;
+    right: 200px;
+}
+
+footer .row .Resources {
+    position: relative;
+    right: 80px;
+}
+
+footer .row .salamke {
+    position: relative;
+    right: 350px;
+}
+
+#fp {
+    text-align: right;
+
+}
+
+#ps5 {
+    font-size: 25px;
+
+}
+
+
+svg-border-rounded svg {
+    height: 3rem;
+    width: 100%;
+    color: #F2F6FC;
+}
+
+span i {
+    font-size: 11px;
+    margin-left: 3px;
+}
+
+header {
+    background-color: #164DE9;
+}
+
+.headerParagraph {
+    color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.learnMore {
+    text-decoration: none;
+}
+
+.learnMore:hover {
+    text-decoration: underline;
+}
+
+.svg-border-rounded svg {
+    height: 3rem;
+    width: 100%;
+    color: #F2F6FC;
+}
+
+#iconsm {
+    margin-bottom: 100px;
+}
+
+#texthere {
+    margin-button: 2000px;
+}
+
+#sla {
+    margin-bottom: 100px;
+    margin-right: 750px;
+}
+
+#nese {
+    height: 3rem;
+    width: 100%;
+    color: #03214e;
+}
+
+#aleykum {
+    border-right: 2px solid;
+    border-color: rgb(226, 230, 237);
+    padding-right: 40px;
+}
+
+#necesen {
+    padding-left: 80px;
+}
+
+#kirpi {
+    margin-bottom: 50px;
+}
+
+#solkart {}
